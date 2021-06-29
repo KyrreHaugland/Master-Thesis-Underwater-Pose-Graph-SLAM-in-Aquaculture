@@ -8,3 +8,5 @@ The python libraries used are listed as follows:
 - opencv-contrib-python 3.4.2.17
 - pandas 1.2.3
 - scipy 1.6.2
+
+The clahs.m MATLAB code is distributed by Ryan Eustice.
