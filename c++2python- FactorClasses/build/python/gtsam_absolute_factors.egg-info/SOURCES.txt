@@ -1,0 +1,8 @@
+setup.py
+gtsam_absolute_factors/__init__.py
+gtsam_absolute_factors.egg-info/PKG-INFO
+gtsam_absolute_factors.egg-info/SOURCES.txt
+gtsam_absolute_factors.egg-info/dependency_links.txt
+gtsam_absolute_factors.egg-info/not-zip-safe
+gtsam_absolute_factors.egg-info/requires.txt
+gtsam_absolute_factors.egg-info/top_level.txt
