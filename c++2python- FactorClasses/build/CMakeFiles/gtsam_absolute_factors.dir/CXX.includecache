@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kyrre/Dokumenter/prosjektoppgave/masteroppgave/code/prototyping isam/c++2python- FactorClasses/cpp/DepthFactor.cpp
+DepthFactor.h
+/home/kyrre/Dokumenter/prosjektoppgave/masteroppgave/code/prototyping isam/c++2python- FactorClasses/cpp/DepthFactor.h
+
+/home/kyrre/Dokumenter/prosjektoppgave/masteroppgave/code/prototyping isam/c++2python- FactorClasses/cpp/DepthFactor.h
+gtsam/geometry/Pose3.h
+-
+gtsam/inference/Key.h
+-
+gtsam/nonlinear/NonlinearFactor.h
+-
+vector
+-
+
+/home/kyrre/Dokumenter/prosjektoppgave/masteroppgave/code/prototyping isam/c++2python- FactorClasses/cpp/TiltFactor.cpp
+TiltFactor.h
+/home/kyrre/Dokumenter/prosjektoppgave/masteroppgave/code/prototyping isam/c++2python- FactorClasses/cpp/TiltFactor.h
+
+/home/kyrre/Dokumenter/prosjektoppgave/masteroppgave/code/prototyping isam/c++2python- FactorClasses/cpp/TiltFactor.h
+gtsam/geometry/Pose3.h
+-
+gtsam/inference/Key.h
+-
+gtsam/nonlinear/NonlinearFactor.h
+-
+vector
+-
+
+/home/kyrre/Dokumenter/prosjektoppgave/masteroppgave/code/prototyping isam/c++2python- FactorClasses/cpp/USBLFactor.cpp
+USBLFactor.h
+/home/kyrre/Dokumenter/prosjektoppgave/masteroppgave/code/prototyping isam/c++2python- FactorClasses/cpp/USBLFactor.h
+
+/home/kyrre/Dokumenter/prosjektoppgave/masteroppgave/code/prototyping isam/c++2python- FactorClasses/cpp/USBLFactor.h
+gtsam/geometry/Pose3.h
+-
+gtsam/inference/Key.h
+-
+gtsam/nonlinear/NonlinearFactor.h
+-
+vector
+-
+

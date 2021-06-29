@@ -1,0 +1,16 @@
+/home/kyrre/Dokumenter/prosjektoppgave/masteroppgave/code/prototyping isam/c++2python- FactorClasses/build/CMakeFiles/install.dir
+/home/kyrre/Dokumenter/prosjektoppgave/masteroppgave/code/prototyping isam/c++2python- FactorClasses/build/CMakeFiles/list_install_components.dir
+/home/kyrre/Dokumenter/prosjektoppgave/masteroppgave/code/prototyping isam/c++2python- FactorClasses/build/CMakeFiles/rebuild_cache.dir
+/home/kyrre/Dokumenter/prosjektoppgave/masteroppgave/code/prototyping isam/c++2python- FactorClasses/build/CMakeFiles/install/strip.dir
+/home/kyrre/Dokumenter/prosjektoppgave/masteroppgave/code/prototyping isam/c++2python- FactorClasses/build/CMakeFiles/install/local.dir
+/home/kyrre/Dokumenter/prosjektoppgave/masteroppgave/code/prototyping isam/c++2python- FactorClasses/build/CMakeFiles/pybind_wrap_gtsam_absolute_factors.dir
+/home/kyrre/Dokumenter/prosjektoppgave/masteroppgave/code/prototyping isam/c++2python- FactorClasses/build/CMakeFiles/python-install.dir
+/home/kyrre/Dokumenter/prosjektoppgave/masteroppgave/code/prototyping isam/c++2python- FactorClasses/build/CMakeFiles/gtsam_absolute_factors.dir
+/home/kyrre/Dokumenter/prosjektoppgave/masteroppgave/code/prototyping isam/c++2python- FactorClasses/build/CMakeFiles/gtsam_absolute_factors_py.dir
+/home/kyrre/Dokumenter/prosjektoppgave/masteroppgave/code/prototyping isam/c++2python- FactorClasses/build/CMakeFiles/edit_cache.dir
+/home/kyrre/Dokumenter/prosjektoppgave/masteroppgave/code/prototyping isam/c++2python- FactorClasses/build/pybind11/CMakeFiles/install/strip.dir
+/home/kyrre/Dokumenter/prosjektoppgave/masteroppgave/code/prototyping isam/c++2python- FactorClasses/build/pybind11/CMakeFiles/install/local.dir
+/home/kyrre/Dokumenter/prosjektoppgave/masteroppgave/code/prototyping isam/c++2python- FactorClasses/build/pybind11/CMakeFiles/edit_cache.dir
+/home/kyrre/Dokumenter/prosjektoppgave/masteroppgave/code/prototyping isam/c++2python- FactorClasses/build/pybind11/CMakeFiles/rebuild_cache.dir
+/home/kyrre/Dokumenter/prosjektoppgave/masteroppgave/code/prototyping isam/c++2python- FactorClasses/build/pybind11/CMakeFiles/list_install_components.dir
+/home/kyrre/Dokumenter/prosjektoppgave/masteroppgave/code/prototyping isam/c++2python- FactorClasses/build/pybind11/CMakeFiles/install.dir
