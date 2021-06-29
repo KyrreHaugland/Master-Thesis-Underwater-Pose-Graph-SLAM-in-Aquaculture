@@ -1,4 +1,4 @@
-# Master-Thesis-Underwater-Pose-Graph-SLAM-in-Aquaculture
+# Master Thesis: Underwater Pose Graph SLAM for Future Aquaculture
 Code used in my master thesis: "Underwater Pose Graph SLAM with DVL-Enhanced Visual Loop Closure for Future Autonomous Aquaculture"
 
 The code is developed in python 3.7, MATLAB and C++. 
