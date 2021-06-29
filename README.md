@@ -2,7 +2,7 @@
 Code used in my master thesis: "Underwater Pose Graph SLAM with DVL-Enhanced Visual Loop Closure for Future Autonomous Aquaculture"
 
 The code has been developed with the following libraries:
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+- Item 1
+- Item 2
+  - Sub Item 1
+  - Sub Item 2
