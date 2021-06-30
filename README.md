@@ -10,3 +10,8 @@ The python libraries used are listed as follows:
 - scipy 1.6.2
 
 The clahs.m MATLAB code is distributed by Ryan Eustice.
+
+The "Plot path and dvl measurements"-folder is used to obtain 
+the 3D-EKF path and DVL point clouds, seen in figures 5.1,
+5.2, and 5.3 in my master thesis. Here, the function saa.m 
+has been used, which is a function implemented by Thor I. Fossen.
